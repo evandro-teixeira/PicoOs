@@ -14,3 +14,5 @@ Planning / Objectives:<p>
 <p>
 
 ## System Diagram 
+<p>
+![diagram](https://github.com/evandro-teixeira/PicoOs/blob/main/Test/kernel_en.png)
