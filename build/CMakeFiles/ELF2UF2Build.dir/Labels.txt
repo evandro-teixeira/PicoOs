@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/CMakeFiles/ELF2UF2Build
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/CMakeFiles/ELF2UF2Build.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/evandro/pico/Projects/PicoOs/RaspberryPiPicoOS/PicoOs/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
